@@ -1,0 +1,45 @@
+body{
+background-color: #0DA7FF ;
+}
+.logo{
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	left: 40%;
+	top: 10%;
+}
+.let{
+	position: absolute;
+	left: 50%;
+	top: 10%;
+}
+.encua
+{
+	position: fixed;
+	top: 25%;
+	left: 25%;
+	width: 60%;
+	height: 75%;
+	background-color: #066DFA  ;
+	border-radius: 100px;
+	}
+.gif{
+	visibility: visible;
+	position: absolute;
+	background-size:100% 100%;
+	background-image: url(anima.gif);
+	border-radius: 100px;
+	width: 90%;
+	height: 90%;
+	left: 5%;
+	top: 5%;
+}
+.gif1{
+	position: absolute;
+	background-image: url(thanks.gif);
+	background-size:100% 100%;
+	width: 90%;
+	height: 90%;
+	left: 5%;
+	top: 5%;
+}
